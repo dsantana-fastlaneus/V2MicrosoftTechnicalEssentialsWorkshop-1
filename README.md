@@ -4,7 +4,6 @@ Sponsered by ![Logo of the project](https://biz.prlog.org/JVSSoCal/logo.jpg)
 - Sponsered by LAVTTA : https://www.jvs-socal.org/program/los-angeles-veterans-technology-training-academy/
 - Sponsered by WDACS : https://wdacs.lacounty.gov/
 - Sponsered by Eric Garcetti : https://www.lamayor.org/
-- Developed by FastLane Training : https://www.fastlane.live/us_en/
 - Supported by Go Deploy : https://lms.godeploy.it/
 
 
@@ -77,7 +76,7 @@ consideration, it is common to separate this section to its own file called
 
 Resources:
 
-- Project homepage: https://www.fastlane.live/us_en/
+- Project homepage:GitHub 
 - Repository: https://github.com/FastLaneUS/MicrosoftTechnicalEssentialsWorkshop
 - Issue tracker: https://github.com/FastLaneUS/MicrosoftTechnicalEssentialsWorkshop/issues
   - In case of sensitive bugs like security vulnerabilities, please contact
@@ -87,7 +86,7 @@ Resources:
 
 ## Licensing
 Copyright information
-Information in this document, including URL and other Internet Web site references, is subject to change without notice. Unless otherwise noted, the example companies, organizations, products, domain names, e-mail addresses, logos, people, places, and events depicted herein are fictitious, and no association with any real company, organization, product, domain name, e-mail address, logo, person, place, or event is intended or should be inferred. Complying with all applicable copyright laws is the responsibility of the user. Without limiting the rights under copyright, no part of this document may be reproduced, stored in, or introduced into a retrieval system, or transmitted in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise), or for any purpose, without the express written permission of Fast Lane US Corporation.
-Fast Lane US may have patents, patent applications, trademarks, copyrights, or other intellectual property rights covering subject matter in this document. Except as expressly provided in any written license agreement from Fast Lane US, the furnishing of this document does not give you any license to these patents, trademarks, copyrights, or other intellectual property.
-The names of manufacturers, products, or URLs are provided for informational purposes only and Fast Lane US makes no representations and warranties, either expressed, implied, or statutory, regarding these manufacturers or the use of the products with any Fast Lane US technologies. The inclusion of a manufacturer or product does not imply endorsement of Fast Lane US of the manufacturer or product. Links may be provided to third party sites. Such sites are not under the control of Fast Lane US and Fast Lane US is not responsible for the contents of any linked site or any link contained in a linked site, or any changes or updates to such sites. Fast Lane US is not responsible for webcasting, or any other form of transmission received from any linked site. Fast Lane US is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement of Fast Lane US of the site, or the products contained therein.
+Information in this document, including URL and other Internet Web site references, is subject to change without notice. Unless otherwise noted, the example companies, organizations, products, domain names, e-mail addresses, logos, people, places, and events depicted herein are fictitious, and no association with any real company, organization, product, domain name, e-mail address, logo, person, place, or event is intended or should be inferred. Complying with all applicable copyright laws is the responsibility of the user. Without limiting the rights under copyright, no part of this document may be reproduced, stored in, or introduced into a retrieval system, or transmitted in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise), or for any purpose, without the express written permission of David Santana.
+David Santana may have patents, patent applications, trademarks, copyrights, or other intellectual property rights covering subject matter in this document. Except as expressly provided in any written license agreement from Cloud Learning Solutions INC, the furnishing of this document does not give you any license to these patents, trademarks, copyrights, or other intellectual property.
+The names of manufacturers, products, or URLs are provided for informational purposes only and Cloud Learning Solutions makes no representations and warranties, either expressed, implied, or statutory, regarding these manufacturers or the use of the products with any David Santana technologies. The inclusion of a manufacturer or product does not imply endorsement of David Santana of the manufacturer or product. Links may be provided to third party sites. Such sites are not under the control of David Santana and David Santana is not responsible for the contents of any linked site or any link contained in a linked site, or any changes or updates to such sites. David Santana is not responsible for webcasting, or any other form of transmission received from any linked site. David Santana is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement of Cloud Learning of the site, or the products contained therein.
 
